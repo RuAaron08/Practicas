@@ -1,0 +1,21 @@
+body p{
+    color: green;
+    }
+    
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: !important white;
+    color: aliceblue;
+    }
+
+ 
+.blog li a{
+  text-decoration: none;
+  color: gainsboro;
+  padding: 20px;
+  display: block;
+}
+
+body{
+    color: red;
+    }
